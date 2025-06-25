@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-logo{
+    width: 56px;
+    height: 36px;
+}
+.bg-container{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.heading1{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+.custom-btn{
+    background-color: #1a2137;
+    color: white;
+    font-weight: normal;
+    width: 90px;
+    height: 30px;
+    font-size: 12px;
+    border-width: 0px;
+    border-radius: 4px;
+}
+#navItem1{
+      color: #323f4b;
+      font-family: roboto;
+}
+#navItem2{
+    color: #323f4b;
+    font-family: roboto;
+}
+#navItem3{
+    color: #323f4b;
+    font-family: roboto;
+}
+#navItem4{
+    color: #323f4b;
+    font-family: roboto;
+}
+#navItem5{
+    color: #323f4b;
+    font-family: roboto;
+}
+.heading2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    color: #1f2933;
+    font-weight: 700;
+}
+
+
+
+.image1{
+    width: 64px;
+    height: 64px;
+}
+.features-title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    color: #1f2933;
+    font-weight: 500;
+}
+.span-element{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.kit-heading{
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #1f2933;
+    font-size: 24px;
+}
+.kit-image1{
+    width: 100px;
+    height: 100px;
+}
+
+.topic-img1{
+    width: 100%;
+}
+.custom-btn2{
+    background-color: #1f2933;
+    color: white;
+    font-weight: normal;
+    width: 110px;
+    height: 40px;
+    font-size: 15px;
+    border-width: 0px;
+    border-radius: 4px;
+}
+.optics-heading{
+    font-size: 34px;
+}
+.controllers-heading{
+    font-size: 34px;
+}
+
+
+.contact-section{
+    background-color: #222b36;
+    text-align: center;
+    background-size: cover;
+}
+.contact-img{
+    width: 300px;
+    height: 210px;
+    padding: 10px;
+}
+.contact-txt{
+    color: white;
+    font-size: 30px;
+}
+.contact-btn{
+    border-style: solid white;
+    border-width: 2px;
+    color: white;
+    background-color: none;
+}
+.trending-heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    color: #1f2933;
+    font-weight: 700;
+}
+.blog-img1{
+    width: 100%;
+}
+.blog-heading1{
+    color: #959ead;
+    font-size: 12px;
+}
+.view-btn{
+    color: #ffffff;
+    background-color: #1754a1;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    width: 175px;
+    height: 56px;
+    border-width: 0px;
+    border-radius: 4px;
+}
+
+
+
+
+.product-heading1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    color: #1f2933;
+    font-weight: 700;
+}
+.product1-img{
+    width: 100%;
+}
+.bg-img1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    width: auto;
+    width: 100%;
+    height: 100vh;
+    padding: 10px;
+    border-radius: 20px;
+}
+.vr-heading{
+    color: white;
+    font-size: 34px;
+}
+.vr-para{
+    color: white;
+    font-size: 20px;
+}
+.buy-btn{
+    background-color: transparent;
+    border-radius: 3px;
+    height: 30px;
+    width: 100px;
+    border-style: solid white;
+    border-color: white;
+    color: white;
+}
+.bg-img2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    width: auto;
+    width: 100%;
+    height: 100vh;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.footer-bg{
+    background-color: #19232d;
+
+    background-size: cover;
+}
+.icon{
+    color: #5a7184;
+    font-size: 18px;
+}
+.icon-bg{
+    background-color: #202b36;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 4px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+.footer-para{
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 480;
+    margin-bottom: 5px;
+}
+.contact-us-footer{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.contact-heading{
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: 670;
+}
+.vr-footer-section{
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 480;
+    margin-bottom: 5px;
+}
+.icon1{
+    color: #5a7184;
+    font-size: 16px;
+}
+.footer-section-text{
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 480;
+    margin-bottom: 5px;
+}
+.footer-heading2{
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: 670;
+}
+.footer-list{
+    list-style-type: none;
+    padding-left: 0;
+}
+.hr-line{
+    background-color: #5a7184;
+}
+.footer-copyright{
+    color: #959ead;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
